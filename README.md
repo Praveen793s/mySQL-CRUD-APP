@@ -59,8 +59,7 @@ project-root/
 
 ### 1. Clone the repository
 
-```
-git clone https://github.com/your-username/your-repo-name.git
+https://github.com/Praveen793s/mySQL-CRUD-APP
 ```
 
 ---
